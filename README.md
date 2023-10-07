@@ -9,4 +9,7 @@ Grocy is an online grocery website designed to provide users with a convenient a
 
 ![Web capture_7-10-2023_22024_](https://github.com/afiya067/e-commerce/assets/122664723/a592f493-98ff-4a8a-ae57-7a89e249b9d2)
 
+![Web capture_7-10-2023_215942_](https://github.com/afiya067/e-commerce/assets/122664723/e8d49b55-b8ca-4b90-84d0-07ecb476b9de)
+
+
 
